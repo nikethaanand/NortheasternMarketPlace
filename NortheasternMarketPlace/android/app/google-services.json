@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35956968707",
+    "project_id": "neumarket-fd017",
+    "storage_bucket": "neumarket-fd017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35956968707:android:c248e160670f23f2eaed36",
+        "android_client_info": {
+          "package_name": "com.example.gtk_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35956968707-07ejjgtiitn82hkjuggpcbjh6ar2rkjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOsVLJ4trbLoInSi0KgrPsr8X25H6zFC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35956968707-07ejjgtiitn82hkjuggpcbjh6ar2rkjv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35956968707-vha19t772c60qp60em568i4jvh2sjrhh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gtkFlutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
