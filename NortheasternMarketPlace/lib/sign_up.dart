@@ -218,6 +218,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   TextFormField(
                     ///receive password from the user
                     decoration: InputDecoration(labelText: 'Password'),
+                     obscureText: true,
                     validator: (value) {
                       if (value == null || value.isEmpty) {
                         return 'Please enter your password';
@@ -256,6 +257,7 @@ class _SignUpPageState extends State<SignUpPage> {
                   TextFormField(
                     ///validate password
                     decoration: InputDecoration(labelText: 'Re-enter Password'),
+                    obscureText: true,
                     validator: (value) {
                       if (value == null || value.isEmpty) {
                         return 'Please re-enter your password';
